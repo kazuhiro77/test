@@ -40,5 +40,8 @@
     <None Include="simple.frag">
       <Filter>Shader Files</Filter>
     </None>
+    <None Include="tire.raw">
+      <Filter>Resource Files</Filter>
+    </None>
   </ItemGroup>
 </Project>
